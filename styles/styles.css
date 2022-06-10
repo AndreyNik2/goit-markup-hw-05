@@ -130,8 +130,8 @@ body {
     width: 100%;
     position: absolute;
     left: 0;
-    bottom: 0px;
-    
+    bottom: -3px;
+    border-radius: 2px;
     display: block;
     background-color: #2196F3;
 }
